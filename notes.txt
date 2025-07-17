@@ -1,1 +1,2 @@
 This is my first file created on GitHub!
+Added a second note.
